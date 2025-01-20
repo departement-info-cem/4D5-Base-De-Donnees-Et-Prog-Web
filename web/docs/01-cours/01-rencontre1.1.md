@@ -1,4 +1,4 @@
-# Rencontre 1.1
+# Rencontre 1
 
 Test de fonctionnement
 Test2
