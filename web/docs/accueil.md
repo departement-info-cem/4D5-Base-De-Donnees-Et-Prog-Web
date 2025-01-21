@@ -9,11 +9,11 @@ hide_table_of_contents: true
 
 <Column>
 
-Bievenue au cours de 4D5 - Base de Données et Programmation Web. Dans ce cours, tu solidifieras tes connaissances en conception et gestion d'une base de données et apprendra à créer des application complètes en BD-First. 
+Bienvenue au cours de 4D5 - Base de Données et Programmation Web. Dans ce cours, tu solidifieras tes connaissances en conception et gestion d'une base de données et apprendras à créer des application complètes en BD-First. 
 
 Le contenu des cours ainsi que les énoncés de TP sont disponibles dans les onglets Cours et Travaux Pratiques. 
 
-Tu retrouvera l'ensemble des présentations montrées en classe, ainsi que les exercices ici. 
+Tu retrouveras l'ensemble des présentations montrées en classe, ainsi que les exercices ici. 
 
 </Column>
 
@@ -30,7 +30,7 @@ Tu retrouvera l'ensemble des présentations montrées en classe, ainsi que les e
 | [5. →](cours/rencontre3.1)   | Data Query Language (DQL)         | |
 | [6. →](cours/rencontre3.2)   | DQL Suite                         | Remise du modèle logique                 |
 | [7. →](cours/rencontre4.1)   | Avancement du TP                  | |
-| [8. →](cours/rencontre4.2)   | Vues et procédures stockées       | Remise du script de création de la base de donnée et du script d'insertion des données |
+| [8. →](cours/rencontre4.2)   | Vues et procédures stockées       | Remise du script de création de la base de données et du script d'insertion des données |
 | [9. →](cours/rencontre5.1)   | Vues et procédures stockées suite | |
 | [10. →](cours/rencontre5.2)  | Déclencheurs                      | Remise du script définissant les vues et procédures stockées |
 | [11. →](cours/rencontre6.1)  | Déclencheurs suite                | |
