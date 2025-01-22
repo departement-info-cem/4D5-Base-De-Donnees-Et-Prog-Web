@@ -1,3 +1,3 @@
-# Rencontre 23
+# Rencontre 23-28 : Projet final
 
 
