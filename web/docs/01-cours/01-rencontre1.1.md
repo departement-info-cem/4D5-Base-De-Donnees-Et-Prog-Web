@@ -4,7 +4,15 @@
 
 Vous pouvez trouver le plan de cours [🔗ici](@site/static/powerpoint/PC_2025H_420-4D5-EM-Département-Informatique.pdf)
 
-## Conception de bases de données : modélisation conceptuelle
+## Conception de bases de données : modélisation 
+
+Au cours de la séance, nous aborderons les notions suivantes : 
+* Code First vs BD First
+* Entités
+* Attributs : atomiques, optionnels, composés, à valeurs multiples, dérivés
+* Relations : directions et cardinalités
+
+## Liens
 
 [🔗Présentation](@site/static/powerpoint/420_4D5_R01_Partie_1.pdf)
 
