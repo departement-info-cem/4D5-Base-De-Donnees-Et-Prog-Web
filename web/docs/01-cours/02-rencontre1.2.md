@@ -3,10 +3,10 @@
 ## Modélisation conceptuelle : suite et fin
 
 Au cours de cette séance, nous allons aborder les notions suivantes : 
-* Lien de composition
-* Lien d'agrégation
-* Lien de généralisation
-* Lien de spécialisation
+* Liens de composition
+* Liens d'agrégation
+* Liens de généralisation
+* Liens de spécialisation
 
 ## Liens
 
