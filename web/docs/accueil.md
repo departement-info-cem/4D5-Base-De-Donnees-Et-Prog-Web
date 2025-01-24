@@ -26,11 +26,11 @@ Tu retrouveras l'ensemble des présentations montrées en classe, ainsi que les 
 | [1. →](cours/rencontre1.1)      | Plan de cours, modèle conceptuel  | Présentation du TP                       |
 | [2. →](cours/rencontre1.2)      | Modèle conceptuel suite et fin    | Choix du sujet du TP                     |
 | [3. →](cours/rencontre2.1)      | Modèle logique                    | |
-| [4. →](cours/rencontre2.2)      | Data Definition Language (DDL)    | Remise du modèle conceptuel              |
+| [4. →](cours/rencontre2.2)      | Data Definition Language (DDL)    | Remise du modèle conceptuel et des questions auxquelles l'étudiant va répondre dans le cadre de son sujet |
 | [5. →](cours/rencontre3.1)      | Data Query Language (DQL)         | |
 | [6. →](cours/rencontre3.2)      | DQL Suite                         | Remise du modèle logique                 |
 | [7. →](cours/rencontre4.1)      | Avancement du TP                  | |
-| [8. →](cours/rencontre4.2)      | Vues et procédures stockées       | Remise du script de création de la base de données et du script d'insertion des données |
+| [8. →](cours/rencontre4.2)      | Vues et procédures stockées       | Remise du script de création de la base de données, du script d'insertion des données et du script contenant les requêtes répondant aux questions |
 | [9. →](cours/rencontre5.1)      | Vues et procédures stockées suite | |
 | [10. →](cours/rencontre5.2)     | Déclencheurs                      | Remise du script définissant les vues et procédures stockées |
 | [11. →](cours/rencontre6.1)     | Déclencheurs suite                | |
