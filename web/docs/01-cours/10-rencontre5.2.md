@@ -9,4 +9,12 @@ Au cours de cette séance, nous allons aborder les notions suivantes :
 * Déclencheurs sur plusieurs instructions DML
 * Contrôle de transactions
 
+## Liens
+
+### Théorie
+
+[🔗Présentation](@site/static/powerpoint/420-4D5_R10_declencheurs.pdf)
+
+### Liens
+
 
