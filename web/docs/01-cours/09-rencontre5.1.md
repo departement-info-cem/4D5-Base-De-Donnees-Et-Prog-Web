@@ -13,3 +13,18 @@ Au cours de cette séance, nous allons aborder les notions suivantes :
 
 [🔗Présentation](@site/static/powerpoint/420-4D5-R09_Retour_Vues_Fonctions_et_procédures.pdf)
 
+### Labo
+
+[🔗Énoncé](@site/static/exos/420-4D5_R09_labo.docx)
+
+[🔗Create](@site/static/exos/420-4D5_R09_labo_create.sql)
+
+[🔗Insert](@site/static/exos/420-4D5_R09_labo_insert.sql)
+
+[🔗Truncate](@site/static/exos/420-4D5_R09_labo_truncate.sql)
+
+[🔗Vues](@site/static/exos/420-4D5_R09_labo_vues.sql)
+
+[🔗Procédures](@site/static/exos/420-4D5_R09_labo_procedures.sql)
+
+### Exercice supplémentaire
