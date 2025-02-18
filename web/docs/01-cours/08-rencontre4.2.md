@@ -8,3 +8,8 @@ Au cours de cette séance, nous allons aborder les notions suivantes :
 * Transact-SQL (Valide uniquement sur Microsoft SQL Server)
 * Les procédures stockées
 
+## Liens
+
+### Théorie
+
+[🔗Présentation](@site/static/powerpoint/420-4D5-R08_Vues_Fonctions_et_procédures.pdf)
