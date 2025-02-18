@@ -27,4 +27,8 @@ Au cours de cette séance, nous allons aborder les notions suivantes :
 
 [🔗Procédures](@site/static/exos/420-4D5_R09_labo_procedures.sql)
 
-### Exercice supplémentaire
+### Exercice supplémentaire CTE
+
+[🔗Création et Insertion](@site/static/exos/420-4D5-R09_SQL_Script_BD_VenteEnLigne.sql)
+
+[🔗Exercices CTE](@site/static/exos/420-4D5-R09_SQL_CTE_Suppl_PRATIQUE_1.sql)
