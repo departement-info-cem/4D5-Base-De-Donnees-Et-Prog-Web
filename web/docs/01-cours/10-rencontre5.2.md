@@ -15,6 +15,12 @@ Au cours de cette séance, nous allons aborder les notions suivantes :
 
 [🔗Présentation](@site/static/powerpoint/420-4D5_R10_declencheurs.pdf)
 
-### Liens
+### Labo
 
+[🔗Énoncé](@site/static/exos/420-4D5_R10_Labo_Énoncé.docx)
 
+[🔗Create](@site/static/exos/420-4D5_R10_Labo_create.sql)
+
+[🔗Insert](@site/static/exos/420-4D5_R10_Labo_insert.sql)
+
+[🔗Exercices](@site/static/exos/420-4D5_R10_Labo_trigger_et_fonction.sql)
