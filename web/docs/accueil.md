@@ -44,9 +44,9 @@ Tu retrouveras l'ensemble des présentations montrées en classe, ainsi que les 
 | [19. →](cours/rencontre10.1)    | Déclencheurs suite                | |
 | [20. →](cours/rencontre10.2)    | Performance                       | |
 | [21. →](cours/rencontre11.1)    | Tests                             | |
-| [22. →](cours/rencontre11.2)    | Wrap-Up                           | |
-| [23-28. →](cours/rencontre12.1) | Projet individuel                 | |
-| [29-30. →](cours/rencontre12.2) | Examen final                      | |
+| [22-23. →](cours/rencontre11.2) | Wrap-Up                           | |
+| [24-29. →](cours/rencontre12.1) | Projet individuel                 | |
+| [30. →](cours/rencontre12.2)    | Examen final                      | |
 
 
 </Column>

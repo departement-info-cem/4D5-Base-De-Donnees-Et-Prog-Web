@@ -1,3 +1,3 @@
-# Rencontre 23-28 : Projet final
+# Rencontre 24 - 29 : Projet final
 
 
