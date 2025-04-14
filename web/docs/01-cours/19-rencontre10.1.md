@@ -21,7 +21,8 @@ Au cours de cette séance, nous allons aborder les notions suivantes :
 ### Labo
 
 :::warning
-Si vous rencontrez une erreur liée au Time Out, ajoutez l'option suivante à votre commande evolve : --command-timeout 60.
+Si vous rencontrez une erreur liée au Time Out, ajoutez l'option suivante à votre commande evolve : _--command-timeout 60_.
+
 Par défault, evolve n'accorde que 30 secondes pour effectuer une migration. Cette option vous permet d'accroitre le délai à 60 secondes.
 :::
 
