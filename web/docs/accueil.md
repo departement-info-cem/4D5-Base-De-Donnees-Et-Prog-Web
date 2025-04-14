@@ -40,8 +40,8 @@ Tu retrouveras l'ensemble des présentations montrées en classe, ainsi que les 
 | [15. →](cours/rencontre8.1)     | Projet Web BD First               | |
 | [16. →](cours/rencontre8.2)     | Projet Web BD First suite         | |
 | [17. →](cours/rencontre9.1)     | Evolve                            | |
-| [18. →](cours/rencontre9.2)     | Evolve suite                      | |
-| [19. →](cours/rencontre10.1)    | Déclencheurs suite                | |
+| [18. →](cours/rencontre9.2)     | Utilisateurs                      | |
+| [19. →](cours/rencontre10.1)    | Images et Index                   | |
 | [20. →](cours/rencontre10.2)    | Performance                       | |
 | [21. →](cours/rencontre11.1)    | Tests                             | |
 | [22-23. →](cours/rencontre11.2) | Wrap-Up                           | |
