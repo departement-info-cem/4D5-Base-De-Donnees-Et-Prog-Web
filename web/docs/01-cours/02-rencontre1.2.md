@@ -1,4 +1,4 @@
-# Rencontre 2
+# R02: Modélisation (suite)
 
 ## Modélisation conceptuelle : suite et fin
 

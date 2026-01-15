@@ -1,4 +1,4 @@
-# Rencontre 9
+# R09: Vues, fonctions et procédures stockées (suite)
 
 ## Vues, fonctions et procédures stockées (suite et fin)
 

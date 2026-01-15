@@ -1,4 +1,4 @@
-# Rencontre 22 - 23
+# R22 et R23: Récapitulation
 
 ## Wrap-Up
 

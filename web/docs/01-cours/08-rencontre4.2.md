@@ -1,4 +1,4 @@
-# Rencontre 8
+# R08: Vues, fonctions et procédures
 
 ## Vues, fonctions et procédures
 

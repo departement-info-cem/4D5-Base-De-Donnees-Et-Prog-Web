@@ -1,4 +1,4 @@
-# Rencontre 1
+# R01: Modélisation
 
 ## Présentation du plan de cours
 

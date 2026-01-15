@@ -1,6 +1,6 @@
-# Rencontre 16
+# R16: SQL Select
 
-## Projet Web BD First (Suite et Fin)
+## Projet Web BD First (Suite)
 
 Au cours de cette rencontre, nous allons aborder les notions suivantes : 
  * Opérations Retrieve (SELECT)

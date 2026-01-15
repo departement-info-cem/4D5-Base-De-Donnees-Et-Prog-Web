@@ -1,4 +1,4 @@
-# Rencontre 6
+# R06: Data Query Language (suite)
 
 ## DQL Suite et Fin
 

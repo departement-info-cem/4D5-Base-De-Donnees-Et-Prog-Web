@@ -1,3 +1,3 @@
-# Rencontre 30 : Examen final
+# R30: Examen final
 
 

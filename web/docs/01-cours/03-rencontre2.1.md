@@ -1,4 +1,4 @@
-# Rencontre 3
+# R03: Logique / relationnelle
 
 ## Modélisation logique / relationnelle
 

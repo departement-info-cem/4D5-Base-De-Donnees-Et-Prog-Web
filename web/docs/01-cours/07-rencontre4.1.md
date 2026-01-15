@@ -1,4 +1,4 @@
-# Rencontre 7
+# R07: Travail pratique
 
 ## Avancement du TP
 
