@@ -77,6 +77,12 @@ const config = {
             sidebarId: "tp",
             label: "Travaux Pratiques",
           },
+          {
+            type: "docSidebar",
+            position: "left",        
+            sidebarId: "standard",
+            label: "Standards",
+          }
         ],
       },
       footer: {
