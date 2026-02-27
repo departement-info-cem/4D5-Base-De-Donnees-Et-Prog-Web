@@ -2,7 +2,7 @@
 
 ## Examen Intra
 
-Cette séance est consacrée à l'examen intra qui occupera l'ensemble de la séance, soit 2h20. 
+Cette séance est consacrée à l'examen intra qui occupera l'ensemble de la séance, soit 1h40. 
 
 L'ensemble des présentations depuis le début de la session vous sera fourni. 
 Il sera interdit d'avoir n'importe quel autre forme de matériel et l'accès à internet sera coupé. 
